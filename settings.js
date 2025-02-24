@@ -1,35 +1,33 @@
 //base by Tech-God
 //re-upload? recode? copy code? give credit ya :)
 //YouTube: @techgod143
-//Instagram: techgod143
-//Telegram: t.me/techgod143
-//GitHub: @techgod143
+//GitHub: @blacksanta2025
 //WhatsApp: +917466008456
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@techgod143
 const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "910000000000"
-global.ownername = "🐛Tech God"
-global.ytname = "YT: Tech-God"
-global.socialm = "GitHub: techgod143"
+global.ownernomer = "+94711840020"
+global.ownername = "black santa "
+global.ytname = "YT: "
+global.socialm = "GitHub: blacksanta2025"
 global.location = "India, Up, Rampur"
 
-global.ownernumber = '917466008456'  //creator number
-global.ownername = '🐛Tech god' //owner name
-global.botname = 'Tech God ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
+global.ownernumber = '+94711840020'  //creator number
+global.ownername = 'black santa' //owner name
+global.botname = 'santa crash //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'Tech-God\n\nContact: +917466008456'
+global.author = 'Tech-God\n\nContact: +94766768726'
 
 //console view/theme
 global.themeemoji = '🪀'
 global.wm = "Youtube Tech God."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029Va9Ufzi8kyyEnEHvOm1h'
+global.link = 'https://whatsapp.com/channel/0029Vb77JQcHAdNb7Nxgs20o'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
@@ -37,7 +35,7 @@ global.prefa = ['','!','.','#','&']
 //false=disable and true=enable
 global.autoRecording = false //auto recording
 global.autoTyping = false //auto typing
-global.autorecordtype = true //auto typing + recording
+global.autorecordtype = false//auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = true //auto update bio
 global.anti92 = false //auto block +92 
